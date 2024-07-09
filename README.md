@@ -42,7 +42,7 @@
   <a href="https://mooner92-pgslectures.notion.site/Mooner92-5fc512df0bba4adda8eb9d8dfaec062c?pvs=4">
     <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black" />
   </a> &nbsp
-  <a href="https://mooner92.com">
+  <a href="https://mooner92.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-ED5305?style=flat-square&logo=Tistory&logoColor=white" />
   </a> &nbsp
   
